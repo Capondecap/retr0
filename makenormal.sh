@@ -8,6 +8,10 @@ clear
 	
 	figlet RETR0
 	sleep 1
+	
+#clear 
+
+clear
 
 #Interface names
         interface=$'wlan0'
