@@ -6,9 +6,6 @@ clear
 
 #Logo and stuffs
 
-	echo " ################### "
-	echo " Wait, loading...... "
-	echo " ################### "
 	figlet RETR0
 
 #Interface Names
@@ -21,7 +18,7 @@ clear
         interface6=$'wlan1mon'
 
 #Putting interface into monitor mode 
-	sudo airmon-ng start "$interface2"
+	sudo airmon-ng start "$interface"
 	
 #killing process
 	sudo airmon-ng check kill 
