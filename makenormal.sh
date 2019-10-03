@@ -5,11 +5,9 @@
 clear
 
 #Logo and stuffs
-
-	echo " ################### "
-	echo " Wait, loading...... "
-	echo " ################### "
+	
 	figlet RETR0
+	sleep 1
 
 #Interface names
         interface=$'wlan0'
