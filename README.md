@@ -1,18 +1,15 @@
 # retr0
 
 made by Bunhour(retr0)
-instagram: @dirtmind2
-FACEBOOK: Long bun hour 
-nickname: retr0
 
 Installation:
-git clone https://github.com/Bunhour/retr0
+git clone https://github.com/Capondecap/retr0
 
 bash requirements.sh
 
-You'll be needing linux for this not android apps like termux.
+You'll be needing linux for this not android apps like termux, and also a wireless card that support monitor mode.
 
-You'll be needing to type your password if you are not in super user or su.
+You'll be needing to type your password if you are not in super user or root.
 
 retr0 is a program which have 3 bash used for wireless scanning and also one more for reseting everything back to normal.
 
